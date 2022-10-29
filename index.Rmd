@@ -1,0 +1,17 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This is Jeff's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+I usually use google [google](https://www.google.com/) all the time to do data science.
+
+another link[about](about.html)
+
+another link[extra staff](extra_staff.html)
